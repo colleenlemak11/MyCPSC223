@@ -1,0 +1,5 @@
+(cntrl+shift+V)
+
+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
+
+clear && make && valgrind ./hw4_test
