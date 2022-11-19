@@ -5,3 +5,4 @@
 
 ## Details:
 - Projects implement object-oriented-programming and complex abstract-data structures
+- Experience using GNU-plots
